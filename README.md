@@ -3,6 +3,8 @@
 **DataMorpher** is a powerful Python CLI tool  that converts data between multiple formats. It supports extremely large files (up to **1024 GB**) and includes real-time terminal feedback with colorful animations.
 
 ---
+![image](https://github.com/user-attachments/assets/effdc96e-c8e6-43a7-8e10-09aeb5c5383f)
+
 
 ## 🚀 Features
 
