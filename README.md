@@ -50,6 +50,7 @@ Then select the conversion type:
 6. JSON to CSV
 7. Beautify JSON
 8. Minify JSON
+9. Folder conversion (just set path)
 
 Enter the full path of the file when prompted.
 📁 Output Files
